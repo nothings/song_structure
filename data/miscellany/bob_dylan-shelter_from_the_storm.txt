@@ -1,0 +1,29 @@
+title Shelter From The Storm
+artist Bob Dylan
+note 1975
+twitter YouTube doesn't have a proper URL of the studio version, and live versions have a different structure, so here's this weird one...
+url https://www.youtube.com/watch?v=r9aN5_GNsMk
+
+i 4 4 4 4
+v 4 4 4 4 | 4 4 4 2
+i 4 4 4 4
+v 4 4 4 4 | 4 4 4 2
+i 4 4 2
+v 4 4 4 4 | 4 4 4 2
+i 4 4 4 4 2
+v 4 4 4 4 | 4 4 4 2
+i 4 4 4 4
+v 4 4 4 4 | 4 4 4 2
+i 4 4 4 4
+v 4 4 4 4 | 4 4 4 2
+i 4 4 4 4
+v 4 4 4 4 | 4 4 4 2
+i 4 4 4 4
+v 4 4 4 4 | 4 4 4 2
+i 4 4 4 4
+v 4 4 4 4 | 4 4 4 2
+i 4 4 4 4
+v 4 4 4 4 | 4 4 4 2
+i 4 2
+o 4 4 4 4 | 4 4 4 4
+i 4 4 4 4 | 4 4 4 4

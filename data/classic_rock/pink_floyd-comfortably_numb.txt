@@ -1,0 +1,17 @@
+title Comfortably Numb
+artist Pink Floyd
+note 1979
+url https://www.youtube.com/watch?v=_FrOQC-zEog
+
+i 4 4
+v 4 4 4 4  4 4 4 4 | 4 4 4 4
+c 4 4 4 4  4 4 4 4 | 4 4 4 4  4 4 4 4 | 4 4 4
+"Guitar Solo" zc 4 4 4 4  4 4 4 4 | 4 4 4
+v 4 4 4 4  4 4 4 4
+c 4 4 4 4  4 4 4 4 | 4 4 4 4  4 4 4 4 | 4 4 4 4
+"Guitar Solo" zv 4 4 4 4  4 4 4 4 |
+                 4 4 4 4  4 4 4 4 |
+                 4 4 4 4  4 4 4 4 |
+               f 4 4 4 4
+
+

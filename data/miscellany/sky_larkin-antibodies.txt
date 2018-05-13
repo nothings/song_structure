@@ -1,0 +1,56 @@
+title Antibodies
+artist Sky Larkin
+note 2012
+twitter Verse&Pre-verse combined are 7x4 measures, Chorus&pre-chorus combined are 7x4 measures.
+url https://www.youtube.com/watch?v=gQRwg0QLSNg
+
+i
+  4 4 4 4 |
+  4 4 2
+""
+  !4 4 4 4 |
+  !4 4 4 4 |
+v
+  `4 4 4 4 |
+  !4 4 4 4 |
+  `4 4 4 4 |
+  #4 4 4 4 |
+  #4 4 4 4 |
+p
+  `4 4 4 4 |
+  !4 4 4 4 |
+  `4 4 4 4 |
+  !4 4 4 4 |
+c
+   !4 4
+   @4 4 |
+   !4 4
+   @4 4 |
+   #4 4 4 4
+v
+  !4 4 4 4 |
+  !4 4 4 4 |
+v
+  `4 4 4 4 |
+  !4 4 4 4 |
+  `4 4 4 4 |
+  #4 4 4 4 |
+  #4 4 4 4 |
+p
+  `4 4 4 4 |
+  !4 4 4 4 |
+  `4 4 4 4 |
+  !4 4 4 4 |
+c
+   !4 4
+   @4 4 |
+   !4 4
+   @4 4 |
+   #4 4 4 4
+o
+   4 4 4 4 |
+   4 4 4 4 |
+   zc! 4 4 @4 4 |
+   !4 4 |
+   zo! 4 4 | 6
+

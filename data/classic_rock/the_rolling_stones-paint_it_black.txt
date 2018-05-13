@@ -1,0 +1,29 @@
+title Paint It Black
+artist The Rolling Stones
+note 1966
+twitter #1 on Billboard Hot 100 for 11 weeks in 1966.
+url https://www.youtube.com/watch?v=O4irXQhgMqg
+
+
+i 4 4
+i 4 4
+izv 4 4 |
+v 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4
+v 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4
+v 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4
+v 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4
+v 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4  ; summer clothes
+bzv 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 4 4 |
+v 4 4 4 4 | 4 4 4 4 | 4 4 4 4 
+v 4 4 4 4 | 4 4 4 4 |
+  4 4 4 4 | 4 4 4 4 |
+  4 4 4 4 |
+  4 4 4 4 | f4 4 4 4 4 4 
+; 4 4 f 4 4 | 4 4 4 4 | 4 4 
+
+

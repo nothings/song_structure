@@ -1,0 +1,22 @@
+title Rolling in the Deep
+artist Adele
+note 2011
+twitter #1 on Billboard Hot 100 for 7 weeks
+url https://www.youtube.com/watch?v=rYEDA3JcQqw
+
+i 4 4
+v 4 4 4 4 | 4 4 4 4
+v 4 4 4 4 | 4 4 4 4
+p 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4
+v 4 4 4 4 | 4 4 4 4
+p 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4
+v 4 4 4 4 | 4 4 4 4
+; music stop
+c!4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4 | 3
+
+

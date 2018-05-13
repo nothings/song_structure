@@ -1,0 +1,71 @@
+title Every Little Thing She Does Is Magic
+artist The Police
+note 1981
+url https://www.youtube.com/watch?v=aENX1Sf3fgQ
+twitter While verses are 4-square, chorus is 7 bars long, with a 6 bar transition to the verse after the frst one.
+
+
+i
+  <2
+  4 4 4 4 |
+  4 4 4 4 |
+v
+  4 4 4 4 |
+  4 4 4 4 |
+  4 4 4 4 |
+  4 4 4 4 |
+c
+  4 4 4 4 |
+  4 4 4 |
+"Post-chorus" zp
+  4 4 4 |
+  4 4 4 |
+v
+  4 4 4 4 |
+  4 4 4 4 |
+  4 4 4 4 |
+  4 4 4 4 |
+c
+  4 4 4 4 |
+  4 4 4 |
+b
+  4 4 4 4 |
+b
+  4 4 4 4 |
+  4 4 4 4 |
+b
+  4 4 4 4 |
+  4 4 4 4 4 4 |
+c
+  4 4 4 4 |
+  4 4 4 4 |
+c
+  4 4 4 4 |
+  4 4 4 |
+o
+  4 4 4 4 |
+  4 4!4 4 |
+o
+  4 4 4 4 |
+  4 4!4 4 |
+o
+  4 4 4 4 |
+  4 4!4 4 |
+o
+  4 4 4 4 |
+  4 4!4 4 |
+o
+  4 4 4 4 |
+  4 4!4 4 |
+o
+  4 4 4 4 |  ; 'every little thing'
+  4 4!4 4 4 4 | ; 'magic, magic, magic'
+o
+  4 4 4 4 |
+  4 4 |
+oze
+  4 4 4 4 |  ; fadeout starts at end
+  4 4 4 4 |
+  4 4 4 4 |
+zo
+ f!4 4 4 4 `4 4 4

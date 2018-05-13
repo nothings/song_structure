@@ -1,0 +1,13 @@
+title Sgt. Pepper's Lonely Hearts Club Band
+artist The Beatles
+note 1967
+twitter Couldn't find it on YouTube, so I've linked to Paul McCartney doing it live.
+url https://www.youtube.com/watch?v=7yAYw_EMaO8
+
+i 4 4 4 4
+v 4 4 4 4 | 4 4 4 4
+p 4 4 4 4 4
+c 4 4 4 4 | 4 4 4 4 | 4 4 4 4
+b 4 4 4 4
+v 4 4 4 4 | 4 4 4 4
+p 4 4 s3/12 4 4

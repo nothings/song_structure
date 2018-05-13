@@ -1,0 +1,32 @@
+title Bourbon And Division
+artist Firewater
+note 1996
+url https://www.youtube.com/watch?v=goWknQP0-Wo
+
+hscale 1.5
+i
+  4 4 |
+v
+  4 4 4 4 | 4 4 4 4 |
+  4 4 4 4 | 4 4 4 hscale 1 &4
+hscale 1
+c
+ `4 4 4 4 | 4 4 &4 |
+ `4 4 4 4 | 4 4 &4 |
+v
+ `4 4 4 4 | 4 4 &4 |
+ `4 4 4 4 | 4 4 &4 |
+c
+ `4 4 4 4 | 4 4 &4 |
+ `4 4 4 4 | 4 4 &4 |
+c
+ `4 4 4 4 | 4 4 &4 |
+ `4 4 4 4 | 4 4 &4 |
+"Guitar Solo" zc!
+ `4 4 4 4 | 4 4 &4 |
+ `4 4 4 4 | 
+hscale 1.5
+  4 4 |
+hscale 1
+o
+  4 4 4 3

@@ -1,0 +1,58 @@
+title Play That Funky Music
+artist Wild Cherry
+note 1976
+url https://www.youtube.com/watch?v=_pHT9yYFdZg
+twitter #1 on Billboard Hot 100 for 3 weeks in 1976
+
+i
+  4 4 4 4 |
+""
+  4 4 4 4 |
+v
+  4 4 4 4 |
+  4 4 4 4 |
+  4 4 4 4 |
+  4 4 4 4 |
+p
+  4 4 4 4 |
+c
+  4 4 4 4 |
+  4 4!4 4 |
+v
+  4 4 4 4 |
+v
+  4 4 4 4 |
+  4 4 4 4 |
+  4 4 4 4 |
+  4 4 4 4 |
+p
+  4 4 4 4 |
+c
+  4 4 4 4 |
+  4 4!4 4 |
+v
+  4 4 4 4 |
+"Guitar solo"
+  4 4 4 4 |
+  4 4 4 4 |
+v
+  4 4 4 4 |
+  4 4 4 4 |
+  4 4 4 4 |
+  4 4 4 4 |
+p
+  4 4 4 4 |
+c
+  4 4 4 4 |
+  4 4!4 4 |
+v
+  4 4 4 4 |
+c
+  4 4 4 4 |
+  4 4 4 4 |
+c
+  4 4 4 4 |
+  4 4 4 4 |
+c
+  f4 4 4 4 4 4 4 2
+

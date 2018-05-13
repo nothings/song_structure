@@ -1,0 +1,18 @@
+title Turn! Turn! Turn!
+artist The Byrds
+note 1965
+url https://www.youtube.com/watch?v=W4ga_M5Zdn4
+twitter 10 measure bridges, choruses have two extra half-measures. #1 on Billboard Hot 100 in 1965 for three weeks.
+
+i 4 4 4 4 | 4 4 4 4
+c 4 4 2 | 4 4 2 | 4 4 4 4
+b 4 4 4 4 4 4 | 4 4 4 4
+c 4 4 2 | 4 4 2 | 4 4 4 4
+b 4 4 4 4 4 4 | 4 4 4 4
+c 4 4 2 | 4 4 2 | 4 4 4 4
+b 4 4 4 4 4 4 | 4 4 4 4
+c 4 4 2 | 4 4 2 | 4 4 4 4
+b 4 4 4 4 4 4 | 4 4 4 4
+c 4 4 2 | 4 4 2 | 4 4 4 4
+b 4 4 4 4 4 4 | 4 4 4 4
+o 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | f  4 4 ; fade starts 2 bars earlier

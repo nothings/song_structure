@@ -1,0 +1,46 @@
+title Cannonball
+artist The Breeders
+note 1993
+url https://www.youtube.com/watch?v=fxvkI9MTQw4
+twitter Verses range from 14 to 17 bars long, with additional variation on which bars are sung and which are instrumental. #44 on the U.S. Billboard Hot 100
+
+i
+  <2
+  4 4 4 4 |
+  4 11/8
+i
+  !4 4
+i
+  @4 4
+""
+  4 4 4 !4
+""
+  4 4 4 |
+  4 4 4
+v
+  4 4 4 !4 |
+ `4 4 4 4 4 |
+  4 4 4 4 |
+  4 4 4 !4 |
+c
+  [4 4] [4 4] |
+ ![4 4] [4 4]
+v
+  4 4 4 !4 |
+ `4 4 4 4 |
+  4 4 |
+  4 4 4 !4 4
+c
+  [4 4] [4 4] |
+ ![4 4] [4 4] |
+v
+  4 4 4 !4 |
+ `4 4 |
+  4 4 4 4 |
+  4 4 4 !4 |
+c
+  [4 4] [4 4] |
+ ![4 4] [4 4] |
+v
+  4 4 4 4 |
+  4 4 4 3

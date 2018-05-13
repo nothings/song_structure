@@ -1,0 +1,17 @@
+title Happy
+artist Pharrell Williams
+note 2013
+url https://www.youtube.com/watch?v=y6Sxv-sUYtM
+twitter #1 on Billboard Hot 100 for 10 weeks in 2014 
+
+i 4
+v 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 4 4
+v 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 4 4
+b 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 4 4
+b 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 4 4

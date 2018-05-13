@@ -1,0 +1,21 @@
+title Despacito
+artist Luis Fonsi
+note 2017
+url https://www.youtube.com/watch?v=iJb7cBfrxbo
+twitter #1 Billboard Hot 100 for 16 weeks in 2017
+
+i 4 4 4 4
+i 4 4 4 4
+i 4 4 4 4
+i 4 4 4 4
+
+i 4 4 4 4
+v 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 4 4
+p 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4
+v 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4
+p 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4
+v 4 4 4 4
+c 4 4 4 4 | 4 4 4 4
+

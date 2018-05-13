@@ -1,0 +1,49 @@
+title Wuthering Heights
+artist Kate Bush
+note 1978
+url https://www.youtube.com/watch?v=BW3gKKiTvjs
+twitter Many mixed meters, but structures repeat identically except extra two beats at the end of the first chorus.
+
+; Chorus: drums suggest a time
+; signature change
+;
+;                    1 1 1
+;  1 2 3 4 5 6 7 8 9 0 1 2
+; vV  vVVVVVv vVVVVVVVVVv v <- vocals
+;  k S k S k k S k S k k S  <- 4 + 1 + 4 + 1 + 2
+;  XXXXXXX XXXXXXX XXXXXXX  <- 4/4
+;  F d G   C F   F G C F    <- transposed 1 half step up 
+;  ^         ^   ^     ^    <- where I hear strong accents
+;            ^       ^      <- "resolving" chord down fifth
+;  XXXXXXXXX XXXXXXX XXXXX  <- 5 4 3
+; vV  vVVVVVV vVVVvVVVVVV v <- vocals
+;  XXXXXXX XXXXXXX XXXXXXX  <- 4/4
+;
+; sheet music on scribd w/ "copyrightt 1978 Kate Bush Music Ltd"
+;    4     3   2     3
+; vV  vVVVVVv vVVVVVVVVVv v <- vocals
+;  k S k S k k S k S k k S  <- 4 + 1 + 4 + 1 + 2
+;  XXXXXXX XXXXX XXX XXXXX  <- 4+3+2+3
+;  F d G   C F   F G C F    <- transposed 1 half step up 
+;  ^         ^   ^     ^    <- where I hear strong accents
+;  |       |     |   |      <- argument for this: the two 3/4 measures are the same musically
+;              YY      YY   <- argument against this: similar vocal phrases appear here, different spots in the 3/4 measures
+;  XXX XXXXX XXX XXXXX XXX  <- but they also occur at different places in 2 3 2 3 2
+;                              so, in conclusion, we accept this sheet music version
+
+
+i 4 4
+v 4 4 4 4 | 4 4 2
+p 4 4 2 4
+c 4 3 2 3 | 4 3 2 3 2
+v 4 4 4 4 | 4 4 2
+p 4 4 2 4
+c 4 3 2 3 | 4 3 2 3
+b 4 4 | 4 4 | 4 | 2 4
+c 4 3 2 3 | 4 3 2 3 |
+  4 3 2 3 | 4 3 2 3 |
+  4 3 2 3 | 4 3 2 3 |
+  4 3 2 3 | 4 3 2 3 |  ; fadeout starts 2-3 measures earlier
+  f 4 3 2 3 ; | 2 3
+
+

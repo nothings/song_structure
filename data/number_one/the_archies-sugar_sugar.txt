@@ -1,0 +1,13 @@
+title Sugar, Sugar
+artist The Archies
+note 1969
+twitter #1 on the Billboard Hot 100 for 4 weeks in 1969
+url https://www.youtube.com/watch?v=h9nE2spOw_o
+
+i zc 4 4 4 4
+c 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 4 4
+b 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 4 4
+b 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 f 4 4

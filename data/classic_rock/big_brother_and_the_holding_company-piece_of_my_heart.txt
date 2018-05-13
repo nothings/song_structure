@@ -1,0 +1,22 @@
+title Piece of My Heart
+artist Big Brother and the Holding Company
+artist Janis Joplin
+note 1968
+url https://www.youtube.com/watch?v=iJb7cBfrxbo
+tumblr 10-measure verses, plus the unexpected half-measure for the shriek in the third chorus
+
+i
+  4 4 4 4 |
+  4 4 zp 4 4 |
+v 4 4 4 4 |  4 4  |  4 4 4 4
+p 4 4
+c 4 4 4 4 | 4 4 ! 4 4  
+v 4 4 
+v 4 4 4 4 | 4 4 |  4 4 4 4
+p 4 4
+c 4 4 4 4 | 4 4 ! 4 4
+"Guitar Solo" 4 4 4 4 | 4 4 4 4 | 4 4 4 4 
+p 4 4 
+c 4 4 4 4 | 4 4 ! 4 2
+c 4 4 4 4 | 4 4 ! 4 4 
+o 4 4 f 10

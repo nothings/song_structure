@@ -1,0 +1,29 @@
+title Sledgehammer
+artist Peter Gabriel
+note 1986
+url https://www.youtube.com/watch?v=g93mz_eZ5N4
+twitter #1 on Billboard Hot 100 for 1 week in 1986
+
+"Intro " zi < 2 | 4 4 4 | 4 4 | 4 4
+"" zv ! 4 4 4 4 | 4 4 4 4
+v 4 4 4 4
+v 4 4 4 4 | 4 4 4 4 |
+ @4 4 |
+v 4 4
+v 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4
+""zv ! 4 4 4 4
+v 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 |
+  4 4 4 4
+c 4 4 4 4
+o zv !4 4 4 4 |
+v 4 4 4 4 | 4 4 4 4
+v 4 4 4 4 | 4 4 4 4
+v 4 4 4 4 | 4 4 4 4
+v 4 4 4 4 | 4 4 4 4
+v 4 f 4 4 4  ; b 4 4 4 ; <- that much more fade-out
+
+
+
+

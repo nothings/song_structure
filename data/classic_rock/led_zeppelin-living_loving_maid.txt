@@ -1,0 +1,48 @@
+title Living Loving Maid
+artist Led Zeppelin
+note 1969
+url https://www.youtube.com/watch?v=nwmCOSYUSlI#t=4m14s
+twitter Verses alternate between 12 bars and 8 bars (but the latter with a 4-bar instrumental opening)
+
+
+v < 1
+  4 4 |
+ !4 4 @4 4 |
+ `4 4 |
+ !4 4 @4 4 |
+c
+  4 4  4 4 |
+  4 4 !4 4 |
+  #4 4 |
+v
+ !4 4 @4 4
+v
+ `4 4 @4 4 |
+ `4 4 @4 4 |
+c
+  4 4  4 4 |
+  4 4 !4 4 |
+  @4 |
+v
+  4 4 |
+ !4 4 @4 4 |
+ `4 4 |
+ !4 4 @4 4 |
+c
+  4 4  4 4 |
+  4 4 !4 4 |
+  #4 4 |
+v
+ !4 4 @4 4
+v
+ `4 4 @4 4 |
+ `4 4 @4 4 |
+c
+  4 4  4 4 |
+  4 4 !4 4 |
+  @4 |
+  #4 4 |
+v
+  !4 4 @4 4 |
+  !4 4 @4 4 |
+  !4 4 @4 4 |

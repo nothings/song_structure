@@ -1,0 +1,47 @@
+title Poker Face
+artist Lady Gaga
+note 2009
+twitter #1 on Billboard Hot 100 for 1 week in 2009
+url https://www.youtube.com/watch?v=bESGLojNYSo
+
+i
+  4 4 4 4 |
+  4 4 4 4 |
+izv
+  4 4 4 4
+v
+  4 4 4 4 |
+  4 4 4 4 |
+p
+  4 4 4 4 |
+  4 4 4 4 
+c
+  4 4 4 4 |
+  4 4 4 4
+v
+  4 4 4 4 |
+v
+  4 4 4 4 |
+  4 4 4 4 |
+p
+  4 4 4 4 |
+  4 4 4 4 
+c
+  4 4 4 4 |
+  4 4 4 4
+v
+  4 4 4 4 |
+v
+ !4 4 4 4 |
+v
+  4 4 4 4 |
+  4 4 4 4 |
+c
+  4 4 4 4 |
+  4 4 4 4 |
+  4 4 4 4 |
+  4 4 4 4 |
+v
+  !4 4 4 4 |
+   4 4 4 4 f3
+

@@ -1,0 +1,69 @@
+title Barracuda
+artist Heart
+url https://www.youtube.com/watch?v=p0OX_8YvFxA
+tumblr While most sections are "power of two" in length (4 or 8 or 16 measures long), the verses are 6 measures (repeated twice), and the outro is extended for one extra phrase. There's also mixed meters, with each verse getting an extra beat, and the main riff dropping a beat in the last half the of the song.
+
+i
+  4 4 4 4 |
+  4 4 4 4 |
+i
+  4 4 4 4 |
+  4 4 4 4 |
+v
+  4 5 |
+  4 4 |
+  4 4 |
+  4 5 |
+  4 4 |
+  4 4 
+c
+  4 4 4 4 |
+  4 4 4 4 |
+i
+  4 4 4 4 |
+  4 4 4 4 |
+v
+  4 5 |
+  4 4 |
+  4 4 |
+  4 5 |
+  4 4 |
+  4 4
+c
+  4 4 4 4 |
+  4 4 4 4
+i
+  4 4 4 4 |
+b
+  4 4 4 4 |
+zi
+  4 4 4 4 |
+b
+  4 4 4 4 |
+zi!
+  4 3 | 4 3 |
+"Guitar solo"
+zb  4 4 4 4 |
+zi! 4 3 | 4 3 |
+zb  4 4 4 4 |
+zi! 4 3 | 4 3 |
+c
+  4 4 4 4 |
+  4 4 4 4
+i
+  4 4 4 4
+"Guitar interlude" ze
+  4 4 4 4 |
+  4 4 4 4 |
+  4 4 4 4 |
+  4 4 4 4 |
+  4 4 4 4 |
+""ze
+  4 4 4 4 |
+  4 4 4 4
+ozi!
+  4 3 |
+  4 3 |
+  4 3 |
+  4 3 |
+  4 3

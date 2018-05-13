@@ -1,0 +1,17 @@
+title Royals
+artist Lorde
+note 2013
+twitter Every section is 8 measures, except the intro & its reprise. #1 on the Billboard Hot 100 for 9 weeks in 2013
+url https://www.youtube.com/watch?v=nlcIKh6sBtc
+
+i 4 4 4 4
+v 4 4 4 4 | 4 4 4 4
+p 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4
+i 4 4
+v 4 4 4 4 | 4 4 4 4
+p 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4
+b 4 4 4 4 | 4 4 4 zp 4
+c 4 4 4 4 | 4 4 4 4
+

@@ -1,0 +1,18 @@
+title Teenage Dream
+artist Katy Parry
+note 2009
+twitter #1 on Billboard Hot 100 for 2 weeks in 2009
+
+
+i 4 4
+v 4 4 4 4 | 4 4 4 4
+v 4 4 4 4 | 4 4 4 4
+p 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 4 4
+v 4 4 4 4 | 4 4 4 4
+p 4 4 4 4 | 4 4 4 4
+c 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 4 4
+b 4 4 4 4 | 4 4 4 4
+i 4 4 4 4
+c 4 4 4 4 | 4 4 4 4 | 4 4 4 4 | 4 4 4 4
+o 4 4 4 4 | 4 4 4 4 | f 4 4

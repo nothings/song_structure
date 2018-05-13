@@ -1,0 +1,29 @@
+title Big Yellow Taxi
+artist Joni Mitchell
+note 1970
+twitter #14 Canada Top Singles
+url https://www.youtube.com/watch?v=94bdMSCdw20
+
+s1/4
+
+i
+  4 4 4 4
+v
+  4 4 4 4
+c
+  4 4 | 4 4 4
+v
+  4 4 4 4
+c
+  4 4 | 4 4 4
+v
+  4 4 4 4
+c
+  4 4 | 4 4 4
+v
+  4 4 4 4
+c
+  4 4 | 4 4
+c
+  4 hscale 1.2 4 hscale 1 | 4 4
+ | 4 4 | 4 4
